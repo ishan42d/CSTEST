@@ -1,0 +1,23 @@
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington, D.C.
+
+Question: Who wrote the novel "Pride and Prejudice"?
+Answer: "Pride and Prejudice" was written by Jane Austen.
+
+Question: What is the largest planet in our solar system?
+Answer: The largest planet in our solar system is Jupiter.
+
+Question: Who is the founder of Microsoft?
+Answer: Microsoft was founded by Bill Gates and Paul Allen.
+
+Question: What is the chemical formula for water?
+Answer: The chemical formula for water is H2O.
+
+Question: Who painted the famous artwork "The Starry Night"?
+Answer: "The Starry Night" was painted by Vincent van Gogh.
+
+Question: What is the speed of light in a vacuum?
+Answer: The speed of light in a vacuum is approximately 299,792 kilometers per second.
+
+Question: Who is the current President of France?
+Answer: As of my knowledge cutoff in 2021, the President of France is Emmanuel Macron. Please verify for the most up-to-date information.
