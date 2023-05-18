@@ -4,7 +4,7 @@ import streamlit as st
 from datetime import datetime
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = ""
 
 # Load the sample questions and answers from the text file
 with open("train_dataset.txt", "r") as file:
